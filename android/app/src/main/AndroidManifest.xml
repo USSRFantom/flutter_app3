@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ussr_fantom.projects">
+    package="com.example.projects">
    <application
         android:label="projects"
         android:icon="@mipmap/ic_launcher">
